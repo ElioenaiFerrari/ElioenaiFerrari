@@ -8,7 +8,7 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software arch
   <br/>
   <br/>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 <div>
   <a href="https://github.com/ElioenaiFerrari">

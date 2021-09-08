@@ -4,6 +4,7 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software arch
 - 🌱 I’m currently learning Elixir
 - 📫 How to reach me: elioenaiferrari@gmail.com
 - 😄 Pronouns: he
+- 👨🏽‍💻 [Portfolio](https://elioenai-ferrari.herokuapp.com)
   <br/>
   <br/>
 

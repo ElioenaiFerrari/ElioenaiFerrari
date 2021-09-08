@@ -22,6 +22,7 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software arch
   <i class="devicon-typescript-plain colored"></i>
   <i class="devicon-nodejs-plain colored"></i>
   <i class="devicon-nestjs-plain colored"></i>
+  <i class="devicon-adonisjs-plain colored"></i>
   <i class="devicon-vuejs-plain colored"></i>
   <i class="devicon-nuxtjs-plain colored"></i>
   <i class="devicon-react-plain colored"></i>

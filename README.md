@@ -45,6 +45,6 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software arch
   <a href = "mailto:elioenaiferrari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elioenai-ferrari-9a90a6173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Avatar](avatar.png)
+  ![Animation](animation.gif)
  
 </div>

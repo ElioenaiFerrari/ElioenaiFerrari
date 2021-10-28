@@ -17,27 +17,23 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software arch
 </div>
 
 <div style="display: inline_block"><br>
-  <i class="devicon-linux-plain colored"></i>
-  <i class="devicon-javascript-plain colored"></i>
-  <i class="devicon-typescript-plain colored"></i>
-  <i class="devicon-nodejs-plain colored"></i>
-  <i class="devicon-nestjs-plain colored"></i>
-  <i class="devicon-adonisjs-plain colored"></i>
-  <i class="devicon-vuejs-plain colored"></i>
-  <i class="devicon-nuxtjs-plain colored"></i>
-  <i class="devicon-react-plain colored"></i>
-  <i class="devicon-nextjs-plain colored"></i>
-  <i class="devicon-elixir-plain colored"></i>
-  <i class="devicon-phoenix-plain colored"></i>
-  <i class="devicon-python-plain colored"></i>
-  <i class="devicon-mongodb-plain colored"></i>
-  <i class="devicon-postgresql-plain colored"></i>
-  <i class="devicon-apachekafka-original"></i>
-  <i class="devicon-redis-original"></i>
-  <i class="devicon-docker-plain colored"></i>
-  <i class="devicon-kubernetes-plain colored"></i>
-  <i class="devicon-googlecloud-plain colored"></i>
-  <i class="devicon-heroku-plain colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   
   ##

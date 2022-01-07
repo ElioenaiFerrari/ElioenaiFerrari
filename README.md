@@ -1,4 +1,4 @@
-Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software architecture, design patterns, algorithms and data structures (especially graphs). I currently work at [CI&T](https://ciandt.com) as a Sênior Leader Architect, hope you like it 😄
+Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software architecture, design patterns, algorithms and data structures (especially graphs). I currently work at [CI&T](https://ciandt.com) as a Sênior Software Engineer, hope you like it 😄
 
 - 🔭 I’m currently working on Typescript, Node.js, React.js, NLP, NLC and Computer Vision.
 - 📫 How to reach me: elioenaiferrari@gmail.com

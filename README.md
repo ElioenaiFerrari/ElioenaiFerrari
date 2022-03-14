@@ -16,7 +16,8 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software arch
 </div>
 
 <div style="display: inline_block"><br>
-<img style="width: 20px; height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img style="width: 20px; height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img style="width: 20px; height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img style="width: 20px; height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" />
   <img style="width: 20px; height: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />

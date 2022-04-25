@@ -3,7 +3,7 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software arch
 - 🔭 I’m currently working on Typescript, Node.js, GO, Elixir, NLP, NLC and Computer Vision.
 - 📫 How to reach me: elioenaiferrari@gmail.com
 - 😄 Pronouns: he
-- 👨🏽‍💻 [Portfolio](https://elioenai-ferrari.herokuapp.com)
+- 👨🏽‍💻 [Portfolio](https://elioenai-ferrari.vercel.app/)
   <br/>
   <br/>
 

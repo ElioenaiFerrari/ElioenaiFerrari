@@ -1,4 +1,4 @@
-Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about software architecture, design patterns, algorithms and data structures (especially graphs). hope you like it 😄
+Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about blockchain, software architecture, design patterns, algorithms and data structures (especially graphs). hope you like it 😄
 
 - 🔭 I’m currently working on Node.js, Elixir and GO
 - 📫 How to reach me: elioenaiferrari@gmail.com

@@ -2,7 +2,6 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about blockchain, s
 
 - 🔭 I’m currently working on Node.js and GO
 - Rust and Solidity student
-- 📫 How to reach me: elioenaiferrari@gmail.com
 - 😄 Pronouns: he
   <br/>
   <br/>

@@ -4,8 +4,6 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about blockchain, s
 - Rust and Solidity student
 - 📫 How to reach me: elioenaiferrari@gmail.com
 - 😄 Pronouns: he
-- 👨🏽‍💻 [Portfolio](https://elioenai-ferrari.vercel.app/)
-- 👨🏽‍💻 [8BITS COLAB](https://8bits-colab.vercel.app/)
   <br/>
   <br/>
 
@@ -53,6 +51,8 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about blockchain, s
   ##
  
 <div> 
+  <a href="https://elioenai-ferrari.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://8bits-colab.vercel.app" target="_blank"><img src="https://img.shields.io/badge/8BITS-F9AB00?style=for-the-badge&logo=vercel&color=7159C1" target="_blank"></a>
   <a href="https://instagram.com/elioenai_ferrari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:elioenaiferrari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elioenai-ferrari-9a90a6173" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

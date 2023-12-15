@@ -58,3 +58,6 @@ Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about blockchain, s
  
    ![Snake animation](https://github.com/ElioenaiFerrari/ElioenaiFerrari/blob/output/github-contribution-grid-snake.svg)  
 </div>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ElioenaiFerrari&theme=radical&no-frame=false&no-bg=false&margin-w=4)

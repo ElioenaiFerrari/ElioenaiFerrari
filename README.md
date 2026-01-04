@@ -1,6 +1,8 @@
-Hi, I'm Elioenai Ferrari and i live in Brazil. I'm fanatical about blockchain, software architecture, design patterns, algorithms and data structures (especially graphs). hope you like it 😄
+Senior Backend Engineer with 5+ years of experience building scalable and reliable backend systems using Elixir, Go, and Node.js. Strong background in distributed architectures, event-driven systems, and real-time integrations.
+Worked at Firstbase, iFood, and Pagar.me, designing high-performance microservices and leading initiatives focused on system scalability, performance, and resilience.
+Also experienced with Rust, Python, and PHP, and passionate about clean code, observability, and backend performance optimization.
 
-- 🔭 I’m currently working on Node.js and GO
+- 🔭 I’m currently working on Node.js, PHP, Python and GO
 - Student of Mathematics and Software Engineering
 - 😄 Pronouns: he
   <br/>
